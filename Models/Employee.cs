@@ -25,6 +25,7 @@ namespace CRUDOperations.Models
             employees.Add(new Employee(101, "Vijay", 45000));
             employees.Add(new Employee(102, "Ramu", 65000));
             employees.Add(new Employee(103, "Somu", 50000));
+             employees.Add(new Employee(104, "Sri", 80000));
             return employees;
         }
         public void Addemployee(Employee employee)
